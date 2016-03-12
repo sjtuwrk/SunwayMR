@@ -1,0 +1,13 @@
+Download Website:	http://haselgrove.id.au/wikipedia.htm
+
+
+Directly Download:	http://download.wikimedia.org/enwiki/20081008/enwiki-20081008-pagelinks.sql.gz
+
+
+After download, we pre-deal the data and put the data into new file as
+
+page1 page2
+page2 page3
+page3 page4
+page1 page5
+page2 page3
