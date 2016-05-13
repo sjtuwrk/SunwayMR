@@ -12,10 +12,9 @@
 #ifndef HEADERS_SHUFFLETASK_H_
 #define HEADERS_SHUFFLETASK_H_
 
-#include "DCUSDCUSk.h"
 #include "Aggregator.h"
 #include "HashDivider.h"
-#include "DCUSDCUS
+#include "DCUS"
 #include "Partition.h"
 
 #include <iostream>
@@ -24,15 +23,15 @@
 using namespace std;
 
 template <class T, class U>
-class ShuffleTask : public DCUSDCUSk< T, int > {
+class ShuffleTask : publicSDCUSk< T, int > {
 public:
-	ShuffleTask(DCUSDCUS &r, Partition &p, long shID, int nPs, HashDivider &hashDivider, Aggregator<T, U> &aggregator, long (*hFunc)(U &u, stringstream &ss), string (*sf)(U &u, stringstream &ss));
+	ShuffleTask(DCUS &r, Partition &p, long shID, int nPs, HashDivider &hashDivider, Aggregator<T, U> &aggregator, long (*hFunc)(U &u, stringstream &ss), string (*sf)(U &u, stringstream &ss));
 	int& run();
 	string serialize(int &t);
 	int& deserialize(string s);
 
 private:
-	long shuffleID; // == DCUSDCUS	int numPartitions;
+	long shuffleID; // == DCUS	int numPartitions;
 	HashDivider &hd;
 	Aggregator<T, U> &agg;
 	long (*hashFunc)(U &u, stringstream &ss);
