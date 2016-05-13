@@ -7,8 +7,8 @@
  *      Author: knshen
  */
 
-#ifndef HEADERS_SHUFFLEDDCUSDCUSTITION_H_
-#define HEADERS_SHUFFLEDDCUSDCUSTITION_H_
+#ifndef HEADERS_SHUFFLEDDCUSTITION_H_
+#define HEADERS_SHUFFLEDDCUSTITION_H_
 
 #include "IteratorSeq.h"
 #include "Partition.h"
@@ -16,9 +16,9 @@
 #include <vector>
 using namespace std;
 
-class ShuffledDCUSDCUStition: public Partition {
+class ShuffledDCUStition: public Partition {
 public:
-	ShuffledDCUSDCUStition(long _DCUSDCUS int _partitionID);
+	ShuffledDCUStition(long _DCUS int _partitionID);
 	//IteratorSeq<T> iteratorSeq();
 
 	long DCUSDCUS
