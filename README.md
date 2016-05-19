@@ -6,6 +6,9 @@ A parallel computing framework written in C++. We reference much on Spark's RDD 
   
 * After the SunwayMR project is inspected, it will be opened in whole.
 
+* Now, we have provided application demos videos.
+
+
 ## Dependencies
 
 You will need `gcc/g++` when using GNU `make`.
