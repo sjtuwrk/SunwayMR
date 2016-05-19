@@ -28,3 +28,4 @@ You will need `gcc/g++` when using GNU `make`.
 
 * See results in listening terminal
 
+The newest version code will come soon~ After the SunwayMR project is inspected, it will be opened in whole.
