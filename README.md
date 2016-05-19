@@ -6,7 +6,7 @@ A parallel computing framework written in C++. We reference much on Spark's RDD 
   
 * After the SunwayMR project is inspected, it will be opened in whole.
 
-* Now, we have provided application demos videos.
+* Now, we have provided application demos videos in the demo file of the project.
 
 
 ## Dependencies
