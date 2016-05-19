@@ -6,7 +6,7 @@ A parallel computing framework written in C++ more than 8000 lines code. We refe
   
 * After the SunwayMR project is inspected by meac-skl inistitution , it will be opened in whole.
 
-* Now, we have provided application demos videos in the demo file of the project.
+* Now, we have provided application demos videos in the ``demos" file of the project.
 
 
 ## Dependencies
