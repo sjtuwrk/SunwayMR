@@ -2,10 +2,6 @@
 
 A parallel computing framework written in C++ more than 8000 lines code. We reference much on Spark's RDD design.
 
-* The newest version code will come soon~ 
-  
-* After the SunwayMR project is inspected by meac-skl inistitution , it will be opened in whole.
-
 * Now, we have provided application demos videos in the "demos" file of the project.
 
 
