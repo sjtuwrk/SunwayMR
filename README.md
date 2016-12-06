@@ -29,5 +29,5 @@ You will need `gcc/g++` when using GNU `make`.
     ./sunwaymr -a examples/SunwayMRPi.cpp
 ```
 
-* See results in listening terminal
+* See results in listening terminal 
 
