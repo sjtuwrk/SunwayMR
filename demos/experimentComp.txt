@@ -1,4 +1,4 @@
-Hadoop      Spark       SunwayMR
+Hadoop      Spark       SunwayMR 
 
 Pi          Pi          Pi
 WorddCount  WordCount   WordCount
