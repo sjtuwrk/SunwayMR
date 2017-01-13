@@ -16,15 +16,15 @@ tolerance is given to resume data-parallel applications, and thread-level string
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
-## Team
-
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou
-
 ## Accepted Papers
 
 * The paper of ** SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
 
 * The paper of ** Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
+
+## Teamers
+
+Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen@sjtu.edu.cn), Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou (The State Key Laboratory of Mathematic Engineering and Advance Computing, Jiangnan Institute of Computing Technology)
 
 ## Software copyrights & Talent
 
