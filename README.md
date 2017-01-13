@@ -4,8 +4,7 @@ A parallel computing framework written in C++ more than 8000 lines code by rease
 
 ## Accepted Papers
 
-* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**.(http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu)
-
+* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**.
 
 * The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**.
 
