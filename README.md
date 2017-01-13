@@ -2,15 +2,15 @@
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of electronic information and electrical engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. Special thanks to Peng Yu (yuzhiyu3@sjtu.edu.cn)'s hard work in developing this framework.
 
-# Team
-
-Renke Wu, Yanyan Shen, Peng Yu, Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
-
-## Papers
+## Accepted Papers
 
 * The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**.
 
 * The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**.
+
+# Team
+
+Renke Wu, Yanyan Shen, Peng Yu, Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
 
 ## Dependencies
 
