@@ -8,6 +8,10 @@ A parallel computing framework written in C++ more than 8000 lines code by rease
 
 * The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**.
 
+## Software copyrights & Talent
+
+One talent & two software copyrights
+
 ## Team
 
 Renke Wu, Yanyan Shen, Peng Yu, Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
