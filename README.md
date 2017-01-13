@@ -4,14 +4,7 @@ A parallel computing framework written in C++ more than 8000 lines code by rease
 
 # Team
 
-Renke Wu
-Yanyan Shen
-Peng Yu
-Kai Shen
-Qiuwei Shi
-Bowen Zhang
-Yijie Mei
-Yanan Xu
+Renke Wu, Yanyan Shen, Peng Yu, Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
 
 ## Papers
 
