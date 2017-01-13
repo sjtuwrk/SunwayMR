@@ -11,21 +11,19 @@ is able to run on Sunway processors (National Computing Center in Wuxi of China:
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
+## Teamers
+
+Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen@sjtu.edu.cn), Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou (The State Key Laboratory of Mathematic Engineering and Advance Computing, Jiangnan Institute of Computing Technology)
+
 ##  Sunway TaihuLight
 
-https://en.wikipedia.org/wiki/Sunway_TaihuLight
-
-The Sunway TaihuLight (Chinese: 神威·太湖之光) is a Chinese supercomputer which, as of June 2016, is ranked number one in the TOP500 list as the fastest supercomputer in the world, with a LINPACK benchmark rating of 93 petaflops. This is nearly three times as fast as the previous holder of the record, the Tianhe-2, which ran at 34 petaflops. As of June 2016, it is also ranked as the third most energy-efficient supercomputer in TOP500, with an efficiency of 6,051.30 MFLOPS/W. It was designed by the National Research Center of Parallel Computer Engineering & Technology (NRCPC) and is located at the National Supercomputing Center in Wuxi in the city of Wuxi, in Jiangsu province, China.
+The Sunway TaihuLight (Chinese: 神威·太湖之光) is a Chinese supercomputer which, as of June 2016, is ranked number one in the TOP500 list as the fastest supercomputer in the world, with a LINPACK benchmark rating of 93 petaflops. This is nearly three times as fast as the previous holder of the record, the Tianhe-2, which ran at 34 petaflops. As of June 2016, it is also ranked as the third most energy-efficient supercomputer in TOP500, with an efficiency of 6,051.30 MFLOPS/W. It was designed by the National Research Center of Parallel Computer Engineering & Technology (NRCPC) and is located at the National Supercomputing Center in Wuxi in the city of Wuxi, in Jiangsu province, China. (https://en.wikipedia.org/wiki/Sunway_TaihuLight)
 
 ## Accepted Papers
 
 * The paper of ** SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
 
 * The paper of ** Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
-
-## Teamers
-
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen@sjtu.edu.cn), Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou (The State Key Laboratory of Mathematic Engineering and Advance Computing, Jiangnan Institute of Computing Technology)
 
 ## Software copyrights & Talent
 
