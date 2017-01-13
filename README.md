@@ -1,10 +1,24 @@
 ## Introduction
 
+Managing servers integration to realize distributed data computing framework is an important concern. Regardless
+of the underlying architecture and the actual distributed system’s complexity, such framework gives programmers an
+abstract view of systems to achieve variously data-intensive applications. However, some state-of-the-art frameworks
+need too much library dependencies and parameters configuration, or lack extensibility in application programming.
+Moreover, general framework’s precise design is a nontrivial work, which is fraught with challenges of task scheduling,
+message communication and computing efficiency, etc. To address these problems, we present a general, scalable and
+programmable parallel computing framework called SunwayMR, which only needs GCC/G++ environment. We argue
+it from the following aspects: 1) Distributed data partitioning, message communication and task organization are given
+to support transparent application execution on parallel hardware. By searching threads table of each node, the task
+gets an idle thread (with preferred node IP address) for executing data partition. A novel communication component,
+SunwayMRHelper, is employed to merge periodical results synchronously. Through identifying whether current node is
+master or slave, SunwayMR deals with the periodical task’s results differently. 2) As for optimizations, a simple fault
+tolerance is given to resume data-parallel applications, and thread-level stringstream is utilized to boost computing.
+
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
 ## Team
 
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
+Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou
 
 ## Accepted Papers
 
@@ -70,3 +84,7 @@ You will need `gcc/g++` when using GNU `make`.
 ```
 
 * See results in listening terminal 
+
+## Results
+
+To ensure ease-of-use, open Application Programming Interface (API) excerpts can be invoked by various of applications with fewer handwritten code than OpenMPI/MPI. We conduct extensively experimental studies to evaluate the performance of SunwayMR over real-world datasets. Results indicate that SunwayMR (runs on 16 computational nodes) outperforms Spark in various applications, and has good scaling with data sizes, nodes and threads. 
