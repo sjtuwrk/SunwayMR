@@ -1,6 +1,22 @@
-## Introduction of SunwayMR
+## Introduction
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
+
+## Team
+
+Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
+
+## Accepted Papers
+
+* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**.
+
+* The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**.
+
+## Software copyrights & Talent
+
+Achieved one talent & two software copyrights.
+
+## Architecture
 
 The layered software architecture Today’s popular software architecture generally follows the loosely-coupled layered manner. Likely, SunwayMR is the layered software architecture stack, The framework’s code can be divided into mainly three abstracted layers totally from the perspective of software engineering: 
 
@@ -20,20 +36,6 @@ To summarize, the main contributions of our work include:
 * We make an implementation of SunwayMR, which provides advantages of both ease-of-use and extensibility. More data-intensive applications can be achieved quickly by invoking public high-level APIs from lower layers of the framework, so as to write less low-leve 
 code.
 * We conduct extensively empirical studies to evaluate the performance of SunwayMR using various applications and real datasets. Experimental results demonstrate that our solution achieves better performance in efficiency, speedup and execution time, compared with Spark framework.
-
-## Accepted Papers
-
-* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**.
-
-* The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**.
-
-## Software copyrights & Talent
-
-Achieved one talent & two software copyrights.
-
-## Team
-
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
 
 ## Dependencies
 
