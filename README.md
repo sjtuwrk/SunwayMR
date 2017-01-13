@@ -2,8 +2,17 @@
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
+The layered software architecture Today’s popular software architecture generally follows the loosely-coupled layered manner. Likely, SunwayMR is the layered software architecture stack, The framework’s code can be divided into mainly three abstracted layers totally from the perspective of software engineering: 
 
+* (1) the upper code layer provides interfaces for application programming; 
 
+* (2) the bottom code layer manages the computing hardware resource; 
+
+* (3) the middle code layer block mainly connects link between the preceding and following role. 
+
+Thus, it not only improves the reusability of software architecture and flexibility in programming specifications, but also improves the complicated system’s maintainability. Before the programmers develop corresponding dataintensive applications, they should be familiar with this distributed parallel computing framework to a large extent. That is, they ought to know the open programmable APIs for programming, rather than framework’s explicit functions from inner design to implementation. In addition, SunwayMR uses an intuitive interface for launching and managing programs on distributed system. SunwayMR allows users easily to launch any pre-existing command to drive application program for data processing.
+
+## Contributions
 
 To summarize, the main contributions of our work include:
 * We first present and discuss the framework’s design. Based on clustering system’s two-level (master-slaves) hierarchy architecture, a distributed dataset managing mechanism organizes data into partitions as data computing unit sets (DCUS). More critically, task organization, job/task scheduling and message communication are given out subsequently.
