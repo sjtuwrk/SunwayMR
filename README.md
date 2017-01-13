@@ -31,3 +31,7 @@ You will need `gcc/g++` when using GNU `make`.
 
 * See results in listening terminal 
 
+The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** has been accepted by Future Generation Computer System in 12 Jan 2017.
+
+    FGCS-D-16-00729	SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming	16 Aug 2016	12 Jan 2017	Completed - Accept	12 Jan 2017	Accept
+
