@@ -10,7 +10,7 @@ A parallel computing framework written in C++ more than 8000 lines code by rease
 
 ## Software copyrights & Talent
 
-One talent & two software copyrights
+Achieved one talent & two software copyrights.
 
 ## Team
 
@@ -31,13 +31,15 @@ You will need `gcc/g++` when using GNU `make`.
 * Start SunwayMR resource manager **on each node**, while specifying `master IP`, `master port`, `shared threads of node`, `shared memory of node`
 
 ```bash
-    ./sunwaymr -t 192.168.1.85 19113 4 1024
+    ./sunwaymr -t 11 MASTER IP MASTER PORT NUMBER OF THREADs SIZE OF MEMORY &
+    such as **./sunwaymr -t 192.168.1.85 19113 4 1024**
 ```
 
 * Now, you can run example program **on master** (in a new terminal)
 
 ```bash
-    ./sunwaymr -a examples/SunwayMRPi.cpp
+    ./sunwaymr -a APPLICATION &
+    such as **./sunwaymr -a examples/SunwayMRPi.cpp**
 ```
 
 * See results in listening terminal 
