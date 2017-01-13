@@ -1,6 +1,6 @@
 # SunwayMR
 
-A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of electronic information and electrical engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
+A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of electronic information and electrical engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. Special thanks to Peng Yu (yuzhiyu3@sjtu.edu.cn)'s hard work in developing this framework.
 
 ## Accepted Papers
 
@@ -14,7 +14,7 @@ One talent & two software copyrights
 
 ## Team
 
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen, Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
+Renke Wu, Yanyan Shen, Peng Yu, Kai Shen, Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu
 
 ## Dependencies
 
