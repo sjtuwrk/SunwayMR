@@ -6,7 +6,8 @@ abstract view of systems to achieve variously data-intensive applications. Howev
 need too much library dependencies and parameters configuration, or lack extensibility in application programming.
 Moreover, general framework’s precise design is a nontrivial work, which is fraught with challenges of task scheduling,
 message communication and computing efficiency, etc. To address these problems, we present a general, scalable and
-programmable parallel computing framework called SunwayMR, which only needs GCC/G++ environment. 
+programmable parallel computing framework called SunwayMR, which only needs GCC/G++ environment. The on-going SunwayMR 
+is able to run on Sunway processors (http://www.nsccwx.cn/) now .
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
