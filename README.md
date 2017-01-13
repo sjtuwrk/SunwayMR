@@ -2,6 +2,9 @@
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of electronic information and electrical engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. 
 
+The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** has been completed accepted by Future Generation Computer System in 12 Jan 2017.
+
+
 * Now, we have provided application demos videos in the "demos" file of the project.
 
 
@@ -30,8 +33,3 @@ You will need `gcc/g++` when using GNU `make`.
 ```
 
 * See results in listening terminal 
-
-The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming** has been accepted by Future Generation Computer System in 12 Jan 2017.
-
-    FGCS-D-16-00729	SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming	16 Aug 2016	12 Jan 2017	Completed - Accept	12 Jan 2017	Accept
-
