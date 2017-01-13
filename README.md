@@ -2,6 +2,10 @@
 
 A parallel computing framework written in C++ more than 8000 lines code by reaserchers from School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. We reference much on Spark's RDD design. Now, we have provided application demos videos in the "demos" file of the project. 
 
+The HPC clustering system for running SunwayMR ought to include several computing nodes and desktops, etc., as depicted in Fig. 1. Parallel machines are networked together through a high speed network (e.g., GigaNet, InfiniBand). Such design constructs the foundation for the framework’s running environment. In order to provide remote access and control the cluster, the architecture of heterogeneous clustering system is organized in masterslaves paradigm, as shown in Fig. 2. The master node (consists of at least one CPU core) is responding for managing the whole clustering system, setting up every service in system management, and receiving the jobs from the client of the clustering system. Before running any application, SunwayMR kernel code is sent from master node and deployed in each slave node in advance.
+
+Execution overview. Fig. 3 depicts the main data computing process in SunwayMR, The process in SunwayMR can be formally represented as: Process := (U, g)+× Sin ⇒ Sout, where Sin is the initial input data, Sout is the result data, g represents the running code, U is the computing nodes set. Phase 1: SunwayMR gets the user’s shell commands to start each server’s listening port for preparing to execute jobs. Phase 2: After data has been received, data set is divided into several parts by a distributed memory dataset managing mechanism. Phase 3: It gets application execution commands through user terminal in master node. Phase 4: All nodes begin to execute tasks and send results back to master node.
+
 ![image](https://github.com/sjtuwrk/SunwayMR/blob/master/testData/pic.png)
 
 ## Team
