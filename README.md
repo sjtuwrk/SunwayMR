@@ -20,7 +20,7 @@ Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (y
 
 ## Accepted Papers
 
-* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming**  (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
+* The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming**  (http://authors.elsevier.com/TrackPaper.html?trk_article=FUTURE3300&trk_surname=Wu , http://www.sciencedirect.com/science/article/pii/S0167739X17300584 ) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
 
 * The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
 
