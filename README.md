@@ -59,6 +59,10 @@ code.
 
 You will need `gcc/g++` when using GNU `make`.
 
+## Programming interface
+
+![image](https://github.com/sjtuwrk/SunwayMR/blob/master/testData/platform.png)
+
 ## Usage
 
 * Download and make source **on each node**
