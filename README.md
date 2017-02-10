@@ -20,9 +20,9 @@ Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (y
 
 ## Accepted Papers
 
-1: * The paper of **SunwayMR: A Distributed Parallel Computing Framework with Convenient Data-intensive Applications Programming**  ( http://www.sciencedirect.com/science/article/pii/S0167739X17300584 ) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
+1: * The paper of **SunwayMR: A distributed parallel computing framework with convenient data-intensive applications programming**  ( http://www.sciencedirect.com/science/article/pii/S0167739X17300584 ) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
 
-2: * The paper of **Meta-model Evolution with Self-Adaptation: An Empirical Development Approach for Distributed Parallel Computing Framework** (http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Renke%20Wu&newsearch=true ) has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
+2: * The paper of **Meta-model evolution with self-adaptation: An empirical development approach for distributed parallel computing framework** (http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=Renke%20Wu&newsearch=true ) has been completed accepted by **TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
 
 3: * The paper of **Multicast routing tree for sequenced packet transmission in software-defined networks** 
 (http://dl.acm.org/citation.cfm?id=2993721&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware '16**. (Authors: Peng Yu, Renke Wu, Haojie Zhou, Haibo Yu, Yuting Chen, Hao Zhong)
