@@ -30,7 +30,7 @@ Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (y
 4: * The paper of **A failure detection solution for multiple QoS in data center networks** ( http://dl.acm.org/citation.cfm?id=2993728&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware '16**.
 (Authors: Kai Shen, Renke Wu, Haojie Zhou, Haibo Yu, Hao Zhong)
 
-## Software copyrights & Talent
+## Software Copyrights & Talent
 
 Achieved one talent & two software copyrights.
 
@@ -65,7 +65,7 @@ code.
 
 You will need `gcc/g++` when using GNU `make`.
 
-## Programming interface
+## Programming Interface
 
 ![image](https://github.com/sjtuwrk/SunwayMR/blob/master/testData/platform.png)
 
@@ -97,5 +97,5 @@ You will need `gcc/g++` when using GNU `make`.
 
 To ensure ease-of-use, open Application Programming Interface (API) excerpts can be invoked by various of applications with fewer handwritten code than OpenMPI/MPI. We conduct extensively experimental studies to evaluate the performance of SunwayMR over real-world datasets. Results indicate that SunwayMR (runs on 16 computational nodes) outperforms Spark in various applications, and has good scaling with data sizes, nodes and threads. 
 
-## Fund support
+## Fund Support
 This work is partially supported by the National HighTechnology Research and Development Program of China under Grant No.2014AA01A301, Grant No.2015AA015303 and the National Natural Science Foundation of China (NSFC) under Grant No.61472241.
