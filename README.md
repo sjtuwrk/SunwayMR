@@ -96,3 +96,6 @@ You will need `gcc/g++` when using GNU `make`.
 ## Results
 
 To ensure ease-of-use, open Application Programming Interface (API) excerpts can be invoked by various of applications with fewer handwritten code than OpenMPI/MPI. We conduct extensively experimental studies to evaluate the performance of SunwayMR over real-world datasets. Results indicate that SunwayMR (runs on 16 computational nodes) outperforms Spark in various applications, and has good scaling with data sizes, nodes and threads. 
+
+## Fund support
+This work is partially supported by the National HighTechnology Research and Development Program of China under Grant No.2014AA01A301, Grant No.2015AA015303 and the National Natural Science Foundation of China (NSFC) under Grant No.61472241.
