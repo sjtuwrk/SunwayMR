@@ -25,9 +25,9 @@ Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (y
 2: * The paper of **Meta-model evolution with self-adaptation: An empirical development approach for distributed parallel computing framework** ( http://ieeexplore.ieee.org/document/7847226/ ) has been completed accepted by **Conference TrustCom-BigDataSE-ISPA 2016** in **17 June 2016**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Kai Shen, Qiuwei Shi and Haojie Zhou.)
 
 3: * The paper of **Multicast routing tree for sequenced packet transmission in software-defined networks** 
-(http://dl.acm.org/citation.cfm?id=2993721&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware '2016**. (Authors: Peng Yu, Renke Wu, Haojie Zhou, Haibo Yu, Yuting Chen, Hao Zhong)
+(http://dl.acm.org/citation.cfm?id=2993721&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware 2016**. (Authors: Peng Yu, Renke Wu, Haojie Zhou, Haibo Yu, Yuting Chen, Hao Zhong)
 
-4: * The paper of **A failure detection solution for multiple QoS in data center networks** ( http://dl.acm.org/citation.cfm?id=2993728&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware '2016**.
+4: * The paper of **A failure detection solution for multiple QoS in data center networks** ( http://dl.acm.org/citation.cfm?id=2993728&CFID=898883172&CFTOKEN=57917688 ) has been completed accepted by **Internetware 2016**.
 (Authors: Kai Shen, Renke Wu, Haojie Zhou, Haibo Yu, Hao Zhong)
 
 ## Software Copyrights & Talent
