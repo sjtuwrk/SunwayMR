@@ -16,7 +16,7 @@ A parallel computing framework is written in C++ more than 8000 lines code by re
 
 ## Teamers
 
-Renke Wu (sjtuwrk@sjtu.edu.cn), Yanyan Shen (yanyanshen14@gmail.com), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen@sjtu.edu.cn), Qiuwei Shi, Bowen Zhang, Yijie Mei, Yanan Xu, Haojie Zhou (The State Key Laboratory of Mathematic Engineering and Advance Computing, Jiangnan Institute of Computing Technology)
+Renke Wu (sjtuwrk@sjtu.edu.cn), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen@sjtu.edu.cn), Qiuwei Shi, Haojie Zhou (The State Key Laboratory of Mathematic Engineering and Advance Computing, Jiangnan Institute of Computing Technology)
 
 ## Accepted Papers
 
