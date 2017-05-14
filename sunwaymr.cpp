@@ -5,6 +5,7 @@
  *      Author: yupeng
  */
 
+
 #ifndef LOGGING_MASK
 #define LOGGING_MASK 1
 #endif
