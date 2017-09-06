@@ -3,6 +3,7 @@ hadoop fs -ls /input
 hadoop fs -put ~/file/pg-data-test-0.txt /input
 
 
+
 ./run-example SparkPageRank /input/pg-data-test-0.txt
 
 
