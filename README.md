@@ -1,5 +1,6 @@
 ## Introduction of SunwayMR
 
+
 Managing servers integration to realize distributed data computing framework is an important concern. Regardless
 of the underlying architecture and the actual distributed system’s complexity, such framework gives programmers an
 abstract view of systems to achieve variously data-intensive applications. However, some state-of-the-art frameworks
