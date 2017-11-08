@@ -14,6 +14,7 @@ A parallel computing framework is written in C++ more than 8000 lines code by re
 
 * Sunway TaihuLight： The Sunway TaihuLight (Chinese: 神威·太湖之光) is a Chinese supercomputer which, as of June 2016, is ranked number one in the TOP500 list as the fastest supercomputer in the world, with a LINPACK benchmark rating of 93 petaflops. This is nearly three times as fast as the previous holder of the record, the Tianhe-2, which ran at 34 petaflops. As of June 2016, it is also ranked as the third most energy-efficient supercomputer in TOP500, with an efficiency of 6,051.30 MFLOPS/W. It was designed by the National Research Center of Parallel Computer Engineering & Technology (NRCPC) and is located at the National Supercomputing Center in Wuxi in the city of Wuxi, in Jiangsu province, China. (https://en.wikipedia.org/wiki/Sunway_TaihuLight)
 
+WARNING: The code can only used for academic research.
 
 ## Teamers
 
