@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := all
 
-CXX = gcc
+CXX = gcc 
 
 
 INCLUDES = -Itools -Iheaders -Iinclude
