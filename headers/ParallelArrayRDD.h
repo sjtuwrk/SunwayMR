@@ -2,7 +2,7 @@
  * ParallelArrayRDD.h
  *
  * A RDD type with IteratorSeq values, e.g. 1...1000
- *
+ * 
  *  Created on: Dec 2, 2015
  *      Author: yupeng
  */
