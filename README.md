@@ -22,7 +22,7 @@ Renke Wu (sjtuwrk@sjtu.edu.cn), Peng Yu (yuzhiyu3@sjtu.edu.cn), Kai Shen (knshen
 
 ## Accepted Papers
 
-1: * The paper of **SunwayMR: A distributed parallel computing framework with convenient data-intensive applications programming**  ( http://www.sciencedirect.com/science/article/pii/S0167739X17300584 ) has been completed accepted by **Future Generation Computer System (Impact Factor: 2.430)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
+1: * The paper of **SunwayMR: A distributed parallel computing framework with convenient data-intensive applications programming**  ( http://www.sciencedirect.com/science/article/pii/S0167739X17300584 ) has been completed accepted by **Future Generation Computer System (Impact Factor: 3.997)** in **12 Jan 2017**. (Authors: Renke Wu, Linpeng Huang, Peng Yu, Haojie Zhou.)
 
 ## Software Copyrights & Talent
 
