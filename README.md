@@ -1,4 +1,4 @@
-## Introduction of SunwayMR
+## Introduction of SunwayMR 
 
 
 Managing servers integration to realize distributed data computing framework is an important concern. Regardless
