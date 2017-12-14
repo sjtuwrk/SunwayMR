@@ -1,6 +1,6 @@
 /*
  * Either.hpp
- *
+ * 
  *  Created on: Feb 26, 2016
  *      Author: yupeng
  */
