@@ -2,7 +2,7 @@
  * SunwayMRPageRank.cpp
  *
  *  Created on: Feb 27, 2016
- *      Author: yupeng
+ *      Author: renke wu
  *
  */
 
