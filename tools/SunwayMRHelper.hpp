@@ -5,6 +5,7 @@
  *      Author: yupeng
  */
 
+
 #ifndef SUNWAYMRHELPER_HPP_
 #define SUNWAYMRHELPER_HPP_
 
